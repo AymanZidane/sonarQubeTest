@@ -1,7 +1,7 @@
 [
     {
         "directory": "C:/Users/a.zidane/Documents/ZIDANE/SonarQubeTest/sonarQubeTest",
-        "file": "test.c",
+        "file": "test.py",
         "command": "gcc -Wall -Wextra -std=c11 -c test.c -o test.o"
     }
 ]
